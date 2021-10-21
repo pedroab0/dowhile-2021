@@ -28,7 +28,7 @@ class AuthenticateUserService {
             },
         });
 
-        const response = await axios.get<IUserResponse>("https://api.github.com/use", {
+        const response = await axios.get<IUserResponse>("https://api.github.com/user", {
             headers: {
                 authorization: `Bearer ${accessTokenResponse.access_token}`,
             },
@@ -43,7 +43,7 @@ class AuthenticateUserService {
         });
 
         if (!user) {
-            await prismaClient.user.create({
+            user = await prismaClient.user.create({
                 data: {
                     github_id: id,
                     login,
