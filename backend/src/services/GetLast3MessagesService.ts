@@ -11,6 +11,8 @@ class GetLast3MessagesServices {
                 user: true,
             },
         });
+        
+        return messages;
     }
 }
 
