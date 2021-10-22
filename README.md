@@ -63,8 +63,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 		  <img alt="Acessar site do ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 	</a>
 	<a href="https://www.prisma.io/">
-		  <img alt="Acessar site do Prisma" src="
-		  https://img.shields.io/badge/prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white">
+		  <img alt="Acessar site do Prisma" src="https://img.shields.io/badge/prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white">
 	</a>
 	<a href="https://www.sqlite.org/index.html">
 		  <img alt="Acessar site do SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
