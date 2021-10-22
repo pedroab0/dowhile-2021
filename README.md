@@ -83,7 +83,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Bootstrapped com [create vite app](https://vitejs.dev/guide/)
 ```bash
-$ yarn create vite <your-app-name> --template react-ts
+$ yarn create vite your-app-name --template react-ts
 ```
 
 #### 📦 Outros pacotes
