@@ -195,19 +195,23 @@ ___
 
 Você pode visualizar os repositórios originais e o layout do projeto através dos links abaixo:
 
->Layout <a href="https://www.figma.com/community/file/1031699316177416916">
+>Layout
+<a href="https://www.figma.com/community/file/1031699316177416916">
 	  <img alt="Acessar repositório original" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </a>
 
->Front-End <a href="https://github.com/rocketseat-education/nlw-heat-web">
+>Front-End
+<a href="https://github.com/rocketseat-education/nlw-heat-web">
 	  <img alt="Acessar repositório original" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
->Mobile <a href="https://github.com/rocketseat-education/nlw-heat-reactnative">
+>Mobile
+<a href="https://github.com/rocketseat-education/nlw-heat-reactnative">
 	  <img alt="Acessar repositório original" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
->Back-End <a href="https://github.com/rocketseat-education/nlw-heat-node">
+>Back-End
+<a href="https://github.com/rocketseat-education/nlw-heat-node">
 	  <img alt="Acessar repositório original" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
