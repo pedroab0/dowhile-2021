@@ -71,6 +71,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 	<a href="https://socket.io/">
 		  <img alt="Acessar site do socket.io" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white">
 	</a>
+	<a href="https://yarnpkg.com/package/jsonwebtoken">
+		  <img alt="Acessar package do JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
+	</a>
 	<a href="https://reactnative.dev/">
 		  <img alt="Acessar site do React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 	</a>
@@ -89,7 +92,6 @@ $ yarn create vite your-app-name --template react-ts
 #### 📦 Outros pacotes
 
 - [react-icons](https://react-icons.github.io/react-icons/)
-- [jsonwebtoken](https://yarnpkg.com/package/jsonwebtoken)
 - [dotenv](https://yarnpkg.com/package/dotenv)
 - [cors](https://yarnpkg.com/package/cors)
 - [ts-node-dev](https://yarnpkg.com/package/ts-node-dev)
