@@ -102,7 +102,8 @@ $ yarn create vite your-app-name --template react-ts
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e [Yarn](https://yarnpkg.com/getting-started/install). 
-Além disto, é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+Além disto, é bom ter um editor para trabalhar com o código, recomendo o:
+><a src="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 
 
 ### Executando  
