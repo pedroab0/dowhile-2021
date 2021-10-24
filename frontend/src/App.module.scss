@@ -9,11 +9,12 @@
 	position: relative;
 
 	@media (max-width: 1024px) {
-		display: flex;
 		align-items: center;
 		justify-content: center;
 		flex-direction: column;
 		grid-template-columns: none;
+		padding: 25px;
+		height: fit-content;
 	}
 }
 
