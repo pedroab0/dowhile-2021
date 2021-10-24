@@ -220,11 +220,13 @@ Você pode visualizar os repositórios originais e o layout do projeto através 
 	  <img alt="Acessar repositório original" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
->Back-End Node <a href="https://github.com/rocketseat-education/nlw-heat-node">
+>Back-End Node 
+<a href="https://github.com/rocketseat-education/nlw-heat-node">
 	  <img alt="Acessar repositório original" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
->Back-End Elixir <a href="https://github.com/rocketseat-education/nlw-heat-elixir">
+>Back-End Elixir 
+<a href="https://github.com/rocketseat-education/nlw-heat-elixir">
 	  <img alt="Acessar repositório original" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
