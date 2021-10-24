@@ -2,4 +2,7 @@
 *.ex linguist-vendored
 *.pot linguist-vendored
 *.po linguist-vendored
+backend-elixir/lib/* linguist-vendored
+backend-elixir/config/* linguist-vendored
+backend-elixir/test/* linguist-vendored
 backend-elixir/** linguist-vendored
