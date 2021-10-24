@@ -80,6 +80,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 	<a href="https://expo.dev/">
 		  <img alt="Acessar site do Expo" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white">
 	</a>
+	<a href="https://elixir-lang.org/">
+		  <img alt="Acessar site do Elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
+	</a>
+	<a href="https://www.postgresql.org/">
+		  <img alt="Acessar site do PostgresSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+	</a>
 </div>
 
 - [Axios](https://github.com/axios/axios) 
@@ -213,8 +219,11 @@ Você pode visualizar os repositórios originais e o layout do projeto através 
 	  <img alt="Acessar repositório original" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
->Back-End
-<a href="https://github.com/rocketseat-education/nlw-heat-node">
+>Back-End Node <a href="https://github.com/rocketseat-education/nlw-heat-node">
+	  <img alt="Acessar repositório original" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+>Back-End Elixir <a href="https://github.com/rocketseat-education/nlw-heat-elixir">
 	  <img alt="Acessar repositório original" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
