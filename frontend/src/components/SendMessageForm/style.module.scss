@@ -1,154 +1,163 @@
 .sendMessageFormWrapper {
-    background: #1b1b1f;
-    padding: 24px;
-    align-self: center;
+	background: #1b1b1f;
+	padding: 24px;
+	align-self: center;
 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
 
-    position: relative;
+	position: relative;
 }
 
 .seal {
-    background: url(../../assets/seal.svg);
-    width: 88px;
-    height: 88px;
-    position: absolute;
-    top: -45px;
-    right: 40px;
+	background: url(../../assets/seal.svg);
+	width: 88px;
+	height: 88px;
+	position: absolute;
+	top: -45px;
+	right: 40px;
 }
 
 .toast {
-    width: 300px;
-    height: 60px;
-    background-color: #1b8f3f;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 16px 28px;
+	width: 300px;
+	height: 60px;
+	background-color: #1b8f3f;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 16px 28px;
 
-    color: #fff;
-    font-size: 16px;
-    line-height: 26px;
+	color: #fff;
+	font-size: 16px;
+	line-height: 26px;
 
-    position: absolute;
-    top: -15%;
-    right: -40%;
-    z-index: 1;
+	position: absolute;
+	top: -15%;
+	right: -40%;
+	z-index: 1;
 }
 
 .signOutButton {
-    background: transparent;
-    border: 0;
-    color: #c4c4cc;
+	background: transparent;
+	border: 0;
+	color: #c4c4cc;
 
-    position: absolute;
-    left: 24px;
-    top: 24px;
+	position: absolute;
+	left: 24px;
+	top: 24px;
 
-    cursor: pointer;
+	cursor: pointer;
 
-    &:hover {
-        filter: brightness(0.9);
-    }
+	&:hover {
+		filter: brightness(0.9);
+	}
 }
 
 .userInformation {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 24px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 24px;
 
-    .userImage {
-        padding: 3px;
-        background: linear-gradient(100deg, #ff008e 0%, #ffcd1e 100%);
-        border-radius: 50%;
-        line-height: 0;
+	.userImage {
+		padding: 3px;
+		background: linear-gradient(100deg, #ff008e 0%, #ffcd1e 100%);
+		border-radius: 50%;
+		line-height: 0;
 
-        img {
-            width: 94px;
-            height: 94px;
-            border-radius: 50%;
-            border: 6px solid #121214;
-        }
-    }
+		img {
+			width: 94px;
+			height: 94px;
+			border-radius: 50%;
+			border: 6px solid #121214;
+		}
+	}
 
-    .userName {
-        font-size: 24px;
-        line-height: 30px;
-        margin-top: 16px;
-    }
+	.userName {
+		font-size: 24px;
+		line-height: 30px;
+		margin-top: 16px;
+	}
 
-    .userGithub {
-        display: flex;
-        align-items: center;
+	.userGithub {
+		display: flex;
+		align-items: center;
 
-        margin-top: 8px;
-        color: #c4c4cc;
+		margin-top: 8px;
+		color: #c4c4cc;
 
-        svg {
-            margin-right: 8px;
-        }
-    }
+		svg {
+			margin-right: 8px;
+		}
+	}
 }
 
 .sendMessageForm {
-    display: flex;
-    flex-direction: column;
-    align-self: stretch;
-    margin-top: 48px;
+	display: flex;
+	flex-direction: column;
+	align-self: stretch;
+	margin-top: 48px;
 
-    background: #202024;
+	background: #202024;
 
-    label {
-        padding: 18px 24px;
-        font-size: 20px;
-        background: #29292e;
-        font-weight: bold;
-        text-align: left;
-    }
+	label {
+		padding: 18px 24px;
+		font-size: 20px;
+		background: #29292e;
+		font-weight: bold;
+		text-align: left;
+	}
 
-    textarea {
-        background: transparent;
-        border: 0;
-        padding: 24px;
-        resize: none;
-        height: 160px;
-        color: #e1e1e6;
-        font-size: 16px;
-        line-height: 24px;
+	textarea {
+		background: transparent;
+		border: 0;
+		padding: 24px;
+		resize: none;
+		height: 160px;
+		color: #e1e1e6;
+		font-size: 16px;
+		line-height: 24px;
 
-        &:focus {
-            outline: 0;
-        }
+		&:focus {
+			outline: 0;
+		}
 
-        &::placeholder {
-            color: #8d8d99;
-        }
-    }
+		&::placeholder {
+			color: #8d8d99;
+		}
+	}
 
-    button {
-        align-self: flex-end;
-        border: 0;
-        background: #ff008e;
-        margin: 24px;
-        padding: 0 32px;
-        height: 40px;
-        color: #fff;
-        font-size: 14px;
-        font-weight: bold;
-        text-transform: uppercase;
-        text-decoration: none;
-        cursor: pointer;
+	button {
+		align-self: flex-end;
+		border: 0;
+		background: #ff008e;
+		margin: 24px;
+		padding: 0 32px;
+		height: 40px;
+		color: #fff;
+		font-size: 14px;
+		font-weight: bold;
+		text-transform: uppercase;
+		text-decoration: none;
+		cursor: pointer;
 
-        display: flex;
-        align-items: center;
-        justify-content: center;
+		display: flex;
+		align-items: center;
+		justify-content: center;
 
-        &:hover {
-            filter: brightness(0.9);
-        }
-    }
+		&:hover {
+			filter: brightness(0.9);
+		}
+	}
+}
+
+@media (max-width: 1024px) {
+	.toast {
+		position: absolute;
+		right: auto;
+		top: -15%;
+		margin-top: 10px;
+	}
 }
