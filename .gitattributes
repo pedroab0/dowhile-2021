@@ -1,2 +1,4 @@
 *.exs linguist-vendored
 *.ex linguist-vendored
+*.pot linguist-vendored
+*.po linguist-vendored
