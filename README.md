@@ -188,6 +188,7 @@ A aplicação estará disponível no seu browser pelo endereço http://localhost
 
 <div align="center">
 	<img width="700" src="https://raw.githubusercontent.com/pedrobarbosa0/dowhile-2021/main/assets/flow.gif"/>
+	<img width="280" src="https://raw.githubusercontent.com/pedrobarbosa0/dowhile-2021/main/assets/mobile.gif"/>
 </div>
 
 <br/>
