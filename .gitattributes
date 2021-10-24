@@ -2,3 +2,4 @@
 *.ex linguist-vendored
 *.pot linguist-vendored
 *.po linguist-vendored
+backend-elixir/** linguist-vendored
